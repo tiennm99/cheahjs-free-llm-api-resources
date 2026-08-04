@@ -153,6 +153,7 @@ All free models may use your prompts for training.
 - Poolside Laguna S 2.1
 - Poolside Laguna XS 2.1
 - StepFun Step 3.7 Flash
+- tencent/hy3:free
 
 ### [OpenCode Zen](https://opencode.ai/docs/zen/)
 
@@ -341,11 +342,9 @@ Models share a common monthly quota.
 
 **Models:**
 - BGE-Multilingual-Gemma2
-- Gemma 3 27B Instruct
 - Llama 3.3 70B Instruct
 - Pixtral 12B (2409)
 - Whisper Large v3
-- devstral-2-123b-instruct-2512
 - gemma-4-26b-a4b-it
 - glm-5.2
 - gpt-oss-120b
@@ -357,6 +356,5 @@ Models share a common monthly quota.
 - qwen3-embedding-8b
 - qwen3.5-397b-a17b
 - qwen3.6-35b-a3b
-- voxtral-small-24b-2507
 
 
